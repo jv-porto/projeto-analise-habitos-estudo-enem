@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto de Análise Socioeconômica do Enem </h1>
+<h1 align="center"> Análise Socioeconômica do ENEM </h1>
 
 Este documento especifica o projeto em desenvolvimento pelo nosso grupo como produto das disciplinas: Projeto Integrado e Banco de Dados.
 
@@ -10,7 +10,8 @@ A partir de um objetivo de negócio escolhido por cada grupo, o projeto consiste
 
 ## Metódo
 
-Cada projeto deve seguir o seguinte método: 
+O projeto deve seguir o seguinte método: 
+
 1. Oferecer uma contextualização do contexto do negócio e da necessidade da solução que seu grupo irá propor.  
 2. Estabelecer claramente o objetivo do trabalho  
 3. Implementar o projeto  
@@ -21,16 +22,17 @@ Cada projeto deve seguir o seguinte método:
 
 **Banco de Dados** 
 
-Cada projeto deve considerar os seguintes requisitos: 
+O projeto deve considerar os seguintes requisitos: 
 
 - REQ#01: Definir pelo menos uma função para realizar tarefas específicas
-- REQ#02: Identificar um dataset (não pode ser toy) que sobre a temática do projeto
+- REQ#02: Identificar um dataset 
 - REQ#03: Construir um modelo conceitual
 - REQ#04: Construir um modelo lógico
 - REQ#05: Construir um físico
 - REQ#06: Popular o BD a partir do dataset
 - REQ#07: Criar 10 questões para que o BD responda
-- REQ#08: O relatório do projeto deve ser desenvolvido e entregue em um caderno Jupyter. REQ#09: O projeto deve ser apresentado para a banca na data estipulada. 
+- REQ#08: O relatório do projeto deve ser desenvolvido e entregue em um caderno Jupyter. 
+- REQ#09: O projeto deve ser apresentado para a banca na data estipulada. 
 
 
 **Machine Learning** 
@@ -45,3 +47,5 @@ Cada projeto deve considerar os seguintes requisitos:
 - REQ#08: Treinar um classificador de Árvore de Decisão ou Floresta Aleatória 
 - REQ#09: Todos os classificadores devem ser avaliados com 30% dos dados, utilizando as métricas F1, acurácia, revocação (recall), precisão. Além disso, utilizem a matriz de confusão para a visualização do desempenho 
 - REQ#10: Todos os classificadores devem ser persistidos (joblib, pickle) antes de serem entregues 
+
+

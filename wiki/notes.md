@@ -1,9 +1,14 @@
 ## Bibliotecas utilizadas
-- `psycopg2`: adaptador de banco de dados PostgreSQL para a linguagem de programação Python. Ela permite que os desenvolvedores interajam com bancos de dados PostgreSQL de forma eficiente e flexível. [Documentação psycopg2](https://www.psycopg.org/docs/)
-	- O PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto e gratuito. [Documentação PostgreSQL](https://www.postgresql.org/docs/current/)
-- `load_dotenv()`:
-	- A função load_dotenv() é um método fornecido pela biblioteca dotenv. Ela é usada para carregar as variáveis de ambiente definidas em um arquivo ".env" para o ambiente do seu programa.
-	- Quando você chama load_dotenv(), a biblioteca busca automaticamente o arquivo ".env" no diretório atual do seu projeto e lê as variáveis de ambiente nele contidas. Em seguida, ela as adiciona ao ambiente do seu programa, tornando-as acessíveis por meio da função `os.environ()`
+- `psycopg2`: adaptador de banco de dados PostgreSQL para a linguagem de programação Python. Ela permite que os desenvolvedores interajam com bancos de dados PostgreSQL de forma eficiente e flexível.
+	- [Documentação psycopg2](https://www.psycopg.org/docs/)
+	>> obs.: O postgres precisa estar instalado previamente.
+
+- `python-dotenv`: biblioteca que facilita a leitura de variáveis de ambiente a partir de arquivos .env
+	- [Documentação python-dotenv](https://pypi.org/project/python-dotenv/)
+	>> obs.: Instale com o comando `pip install python-dotenv` em vez de `pip install dotenv`
+	- `load_dotenv()`:
+		- Usada para carregar as variáveis de ambiente definidas em um arquivo ".env" para o ambiente do seu programa.
+		- Quando você chama load_dotenv(), a biblioteca busca automaticamente o arquivo ".env" no diretório atual do seu projeto e lê as variáveis de ambiente nele contidas. Em seguida, ela as adiciona ao ambiente do seu programa, tornando-as acessíveis por meio da função `os.environ()`
 
 ### Classe `db_connection()`
 - `os.environ.get()`:

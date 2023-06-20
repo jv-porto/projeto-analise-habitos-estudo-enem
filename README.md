@@ -2,11 +2,11 @@
 
 Este documento especifica o projeto em desenvolvimento pelo nosso grupo como produto das disciplinas: **Projeto Integrado** e **Banco de Dados**.
 
-Link do dataset usado: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
+Link do dataset usado: [Microdados do ENEM 2022](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem)
 
 ## **Descrição do Projeto**
 
-Com o tema focado em: Como a situação socioeconômica pode influenciar no desempenho de um estudante no ENEM?
+Com o tema focado em: Quais hábitos de estudo são mais relevantes para o desempenho dos estudantes no ENEM?
 
 A partir de um objetivo de negócio escolhido por cada grupo, o projeto consiste em sistematizar as técnicas apresentadas durante o semestre para atingir os objetivos.
 
@@ -14,10 +14,15 @@ A partir de um objetivo de negócio escolhido por cada grupo, o projeto consiste
 
 O projeto deve seguir o seguinte método:
 
-1. Oferecer uma contextualização do contexto do negócio e da necessidade da solução que seu grupo irá propor.
-2. Estabelecer claramente o objetivo do trabalho.
-3. Implementar o projeto.
-4. Analisar como a implementação atende ao objetivo proposto.
+### Entendimento do negócio:
+- 1. Oferecer uma contextualização do contexto do negócio e da necessidade da solução que seu grupo irá propor.
+	- O ENEM (Exame Nacional do Ensino Médio), a princípio criado para avaliar a qualidade do ensino brasileiro. É hoje a principal forma de ingresso nas instituições de ensino superior. Com uma média de mais de 4 milhões de inscritos nos últimos 5 anos,<sup>[1](https://brasilescola.uol.com.br/educacao/o-que-e-enem.htm)</sup> os microdados do exame podem fornecer informações valiosas sobre os diversos perfis de alunos e como as escolas poderiam melhorar seus desempenhos.
+
+- 2. Estabelecer claramente o objetivo do trabalho.
+	- A partir de questões que englobam a percepção de aprendizagem do aluno, sua gestão de tempo, práticas de estudo, rotina, acesso a tecnologia e a infraestrutura, o projeto tem como adjetivo mapear os principais hábitos dos alunos com sua performance no ENEM. Ao disponibilizar tal análise para as escolas, é possível estruturar um planejamento para minimizar as dificuldades e reforçar as qualidades mais relevantes para otimizar o desempenho dos alunos na prova.
+
+3. Implementar o projeto. (Entendimento, preparação e modelagem dos dados).
+4. Analisar como a implementação atende ao objetivo proposto. (Avaliação e implementação).
 5. Conclusão.
 
 ## **Requisitos do projeto**

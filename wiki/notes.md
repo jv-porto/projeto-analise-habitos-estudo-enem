@@ -22,3 +22,17 @@
 Em conexões de banco de dados, um cursor é um objeto que permite interagir com os resultados de uma consulta ao banco de dados. Ele age como um identificador ou ponteiro para uma posição específica dentro do banco de dados, permitindo recuperar e manipular dados.
 
 Quando você estabelece uma conexão com um banco de dados, pode criar um cursor associado a essa conexão. O cursor fornece métodos e atributos que permitem executar declarações SQL, recuperar linhas dos resultados da consulta e realizar outras operações no banco de dados.
+
+### [Pipeline](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
+No scikit-learn, um pipeline é uma sequência ordenada de transformações de dados e estimadores (modelos) encapsulados em uma única entidade. Essa entidade pode ser tratada como um estimador e ser utilizada para ajustar e prever dados automaticamente.
+
+O objetivo principal de um pipeline é encadear várias etapas de pré-processamento de dados e modelagem em uma sequência lógica. Isso permite automatizar e simplificar o fluxo de trabalho de aprendizado de máquina, garantindo consistência e reprodutibilidade nos processos.
+
+### [cross_val_score](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html)
+A função cross_val_score facilita a realização de validação cruzada em um modelo. A validação cruzada é uma técnica estatística que permite avaliar o desempenho do modelo em dados não observados, fornecendo uma estimativa mais confiável da capacidade de generalização do modelo.
+
+A função `cross_val_score` divide o conjunto de dados em partes (chamadas de folds) e realiza a avaliação do modelo em cada fold, utilizando o restante dos dados para treinamento. Ela retorna uma lista de pontuações (scores) que representam o desempenho do modelo em cada fold.
+
+Parâmetros:
+- `cv`: define o número de folds.
+- `scoring`: define a métrica de avaliação que determina como as previsões são comparadas com os valores reais.

@@ -7,3 +7,4 @@ vini-microdf.csv
 vini-habdf.csv
 aggregated_df.csv
 filtered_aggregated_df.csv
+knn.ipynb

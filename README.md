@@ -1,10 +1,5 @@
 <h1 align="center">Análise Socioeconômica do ENEM</h1>
 
-# Autores
-
-| [<img src="https://avatars.githubusercontent.com/u/49590986?v=4" width=115><br><sub>Hellen Rosa</sub>](https://github.com/hellenrosaa) |  [<img src="https://avatars.githubusercontent.com/u/85461972?v=4" width=115><br><sub>João Porto</sub>](https://github.com/jv-porto) | [<img src="https://avatars.githubusercontent.com/u/106092783?v=4" width=115><br><sub>Laura Murayama</sub>](https://github.com/lauramurayama) | [<img src="https://avatars.githubusercontent.com/u/126627391?v=4" width=115><br><sub>Maria Eduarda</sub>](https://github.com/dudabonnel) | [<img src="https://avatars.githubusercontent.com/u/67122007?v=4" width=115><br><sub>Vinícius Ferreirab>](https://github.com/vinifm) | [<img src="https://avatars.githubusercontent.com/u/103860241?v=4" width=115><br><sub>Vitória Teixeira</sub>](https://github.com/vitoriaft) |
-| :---: | :---: | :---: |
-
 Este documento especifica o projeto em desenvolvimento pelo nosso grupo como produto das disciplinas: **Projeto Integrado** e **Banco de Dados**.
 
 Link do dataset usado: [Microdados do ENEM 2022](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem)

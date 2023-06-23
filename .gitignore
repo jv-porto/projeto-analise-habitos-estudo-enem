@@ -3,8 +3,5 @@ ibmcloud_config.ipynb
 /microdados_enem_2022
 microdados_enem_2022.zip
 .env
-vini-microdf.csv
-vini-habdf.csv
-aggregated_df.csv
-filtered_aggregated_df.csv
+*.csv
 knn.ipynb

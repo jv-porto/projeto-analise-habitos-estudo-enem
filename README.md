@@ -1,4 +1,4 @@
-<h1 align="center">Análise Socioeconômica do ENEM</h1>
+<h1 align="center">Quais fatores mais influenciam no desempenho de um aluno no ENEM e como podemos ajudá-lo a melhorar sua performance?</h1>
 
 Este documento especifica o projeto em desenvolvimento pelo nosso grupo como produto das disciplinas: **Projeto Integrado** e **Banco de Dados**.
 
@@ -8,7 +8,7 @@ Link do dataset usado: [Microdados do ENEM 2022](https://www.gov.br/inep/pt-br/a
 
 Com o tema focado em: Quais hábitos de estudo são mais relevantes para o desempenho dos estudantes no ENEM?
 
-A partir de um objetivo de negócio escolhido por cada grupo, o projeto consiste em sistematizar as técnicas apresentadas durante o semestre para atingir os objetivos.
+O seguinte projeto consiste em sistematizar as técnicas apresentadas nas disiciplimas de projeto em negócios e banco de dados para atingir os objetivos definidos.
 
 ## **Metódo**
 

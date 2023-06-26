@@ -1,0 +1,4 @@
+fastapi==0.98.0
+pandas==1.5.3
+skops==0.7.post0
+uvicorn==0.22.0

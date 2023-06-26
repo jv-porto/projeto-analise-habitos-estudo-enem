@@ -1,1 +1,2 @@
 sklearn/models/tuned/tuned_randomforest_classifier.skops filter=lfs diff=lfs merge=lfs -text
+app/assets/sklearn/models/tuned/tuned_randomforest_classifier.skops filter=lfs diff=lfs merge=lfs -text

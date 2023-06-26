@@ -5,3 +5,5 @@ microdados_enem_2022.zip
 .env
 *.csv
 knn.ipynb
+app/__pycache__
+app/*/__pycache__
